@@ -157,16 +157,17 @@ Modern UI components, asynchronous data handling, and smooth navigation ensure a
 
 ## 📸 Screenshots
 
-Below are the key screenshots of the application. Click to view full size:
+Below are the key screenshots of the application:
 
-[![Login Page](Fisis/assets/screenshots/login_page.jpg)](Fisis/assets/screenshots/login_page.jpg)
-[![Admin Page](Fisis/assets/screenshots/admin_page.jpg)](Fisis/assets/screenshots/admin_page.jpg)
-[![Admin Page 2](Fisis/assets/screenshots/admin_page_2.jpg)](Fisis/assets/screenshots/admin_page_2.jpg)
-[![Insert Page](Fisis/assets/screenshots/add_page.jpg)](Fisis/assets/screenshots/add_page.jpg)
-[![Admin Profile Detail Page](Fisis/assets/screenshots/admin_profile_detail_page.jpg)](Fisis/assets/screenshots/admin_profile_detail_page.jpg)
-[![Delete Process](Fisis/assets/screenshots/delete_process.jpg)](Fisis/assets/screenshots/delete_process.jpg)
-[![Update Page](Fisis/assets/screenshots/update_page.jpg)](Fisis/assets/screenshots/update_page.jpg)
-[![Update Page 2](Fisis/assets/screenshots/update_page_2.jpg)](Fisis/assets/screenshots/update_page_2.jpg)
-[![User Profile Detail Page](Fisis/assets/screenshots/user_profile_detail_page.jpg)](Fisis/assets/screenshots/user_profile_detail_page.jpg)
+![Login Page](assets/screenshots/login_page.jpg)
+![Admin Page](assets/screenshots/admin_page.jpg)
+![Admin Page 2](assets/screenshots/admin_page_2.jpg)
+![Add User Page](assets/screenshots/add_page.jpg)
+![Admin Profile Detail Page](assets/screenshots/admin_profile_detail_page.jpg)
+![Delete Process](assets/screenshots/delete_process.jpg)
+![Update Page](assets/screenshots/update_page.jpg)
+![Update Page 2](assets/screenshots/update_page_2.jpg)
+![User Profile Detail Page](assets/screenshots/user_profile_detail_page.jpg)
+
 
 
