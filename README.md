@@ -157,18 +157,14 @@ Modern UI components, asynchronous data handling, and smooth navigation ensure a
 
 ## 📸 Screenshots
 
-Below are the key screenshots of the application:
+Below are the key screenshots of the application (optimized width 400px):
 
-<img src="Fisis/assets/screenshots/login_page.jpg" alt="Login Page" width="400"/>
-<img src="Fisis/assets/screenshots/admin_page.jpg" alt="Admin Page" width="400"/>
-<img src="Fisis/assets/screenshots/admin_page_2.jpg" alt="Admin Page 2" width="400"/>
-<img src="Fisis/assets/screenshots/add_page.jpg" alt="Insert Page" width="400"/>
-<img src="Fisis/assets/screenshots/admin_profile_detail_page.jpg" alt="Admin Profile Detail Page" width="400"/>
-<img src="Fisis/assets/screenshots/delete_process.jpg" alt="Delete Process" width="400"/>
-<img src="Fisis/assets/screenshots/update_page.jpg" alt="Update Page" width="400"/>
-<img src="Fisis/assets/screenshots/update_page_2.jpg" alt="Update Page 2" width="400"/>
-<img src="Fisis/assets/screenshots/user_profile_detail_page.jpg" alt="User Profile Detail Page" width="400"/>
-
-
-
-
+<img src="assets/screenshots/login_page.jpg" alt="Login Page" width="400"/>
+<img src="assets/screenshots/admin_page.jpg" alt="Admin Page" width="400"/>
+<img src="assets/screenshots/admin_page_2.jpg" alt="Admin Page 2" width="400"/>
+<img src="assets/screenshots/add_page.jpg" alt="Insert Page" width="400"/>
+<img src="assets/screenshots/admin_profile_detail_page.jpg" alt="Admin Profile Detail Page" width="400"/>
+<img src="assets/screenshots/delete_process.jpg" alt="Delete Process" width="400"/>
+<img src="assets/screenshots/update_page.jpg" alt="Update Page" width="400"/>
+<img src="assets/screenshots/update_page_2.jpg" alt="Update Page 2" width="400"/>
+<img src="assets/screenshots/user_profile_detail_page.jpg" alt="User Profile Detail Page" width="400"/>
