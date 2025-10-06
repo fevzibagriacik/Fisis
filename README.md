@@ -160,6 +160,12 @@ Modern UI components, asynchronous data handling, and smooth navigation ensure a
 Below are the key screenshots of the application:
 
 ```markdown
-![Login Screen](assets/screenshots/login.png)
-![Admin Panel](assets/screenshots/admin_panel.png)
-![User Profile](assets/screenshots/user_profile.png)
+![Login Page](assets/screenshots/login_page.jpg)
+![Admin Page](assets/screenshots/admin_page.jpg)
+![Admin Page](assets/screenshots/admin_page_2.jpg)
+![Insert Page](assets/screenshots/add_page.jpg)
+![Admin Profile Detail Page](assets/screenshots/admin_profile_detail_page.jpg)
+![Delete Process](assets/screenshots/delete_process.jpg)
+![Update Page](assets/screenshots/update_page.jpg)
+![Update Page](assets/screenshots/update_page_2.jpg)
+![User Profile Detail Page](assets/screenshots/user_profile_detail_page.jpg)
