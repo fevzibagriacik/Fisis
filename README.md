@@ -155,11 +155,11 @@ Modern UI components, asynchronous data handling, and smooth navigation ensure a
 
 ---
 
+```markdown
 ## 📸 Screenshots
 
 Below are the key screenshots of the application:
 
-```markdown
 ![Login Page](assets/screenshots/login_page.jpg)
 ![Admin Page](assets/screenshots/admin_page.jpg)
 ![Admin Page](assets/screenshots/admin_page_2.jpg)
